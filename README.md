@@ -1,7 +1,7 @@
 # Olá, eu sou Caique Azevedo! 👋
 
 <div align="center">
-  <h3>Java Developer @ FUNAC | Estudante de Engenharia de Software @ FIAP</h3>
+  <h3>Java Developer FUNAC | Estudante de Engenharia de Software FIAP</h3>
   <p>
     Foco em desenvolvimento de soluções corporativas robustas, migração de sistemas legados e arquitetura de software.
   </p>
