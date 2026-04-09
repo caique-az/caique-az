@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=caique-az&color=58A6FF&style=flat-square&label=visualizações+do+perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=caique-az&color=58A6FF&style=flat-square&label=visualiza%C3%A7%C3%B5es+do+perfil" alt="Profile views"/>
 
 <h1>Caique Azevedo</h1>
 <h3>Java Developer · Software Engineering Student</h3>
 
 <p>
-  📍 São Luís, MA 🇧🇷 &nbsp;|&nbsp; Desenvolvedor Java no setor público &nbsp;|&nbsp; Foco em sistemas corporativos robustos
+  📍 Campinas, SP 🇧🇷 &nbsp;|&nbsp; Desenvolvedor Java &nbsp;|&nbsp; Foco em sistemas corporativos robustos
 </p>
 
 <a href="mailto:caiqueazevedo2005@gmail.com">
@@ -80,11 +80,13 @@ Tenho interesse especial em:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<img width="495" src="https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img width="495" src="https://streak-stats.demolab.com/?user=caique-az&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=caique-az&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=C9D1D9)
+<br/><br/>
+
+<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Langs"/>
 
 </div>
 
