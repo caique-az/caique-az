@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <h1>Caique Azevedo</h1>
 <h3>Java Developer · Software Engineering Student</h3>
@@ -89,4 +89,3 @@ Tenho interesse especial em:
 <div align="center">
   <sub>Feito com foco e café ☕ — sempre em evolução.</sub>
 </div>
-]]>
