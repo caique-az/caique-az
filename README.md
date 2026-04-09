@@ -11,23 +11,11 @@ Foco em desenvolvimento de soluções corporativas robustas, migração de siste
 
 ### 🛠️ Arsenal Tecnológico
 
-**Backend & Core:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=for-the-badge&logo=jakartaee&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend & Core:** `Java` `Spring Boot` `Jakarta EE` `Python`
 
-**Banco de Dados & DevOps:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+**Banco de Dados & DevOps:** `MySQL` `PostgreSQL` `MongoDB` `Docker` `Git`
 
-**Frontend & Mobile:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend & Mobile:** `JavaScript` `React Native` `HTML5`
 
 ---
 
@@ -35,21 +23,9 @@ Foco em desenvolvimento de soluções corporativas robustas, migração de siste
 
 Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo e evoluindo sistemas críticos em **Jakarta EE** e **WildFly**.
 
-#### 🏆 Destaque: [Luxus Brechó](https://github.com/caique-az/luxus-brecho)
-
-> *Sistema de gestão e App Mobile desenvolvido para um cliente real.*
-> 
-> * **Tech:** Python (Flask), React Native, MongoDB e CI/CD.
-> * **Impacto:** Digitalização de estoque e vendas online.
-
-<div align="center">
-  <a href="https://github.com/caique-az/luxus-brecho">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=luxus-brecho&theme=dracula" alt="Luxus Brecho">
-  </a>
-  <a href="https://github.com/caique-az/econagro-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=econagro-backend&theme=dracula" alt="EconAgro">
-  </a>
-</div>
+#### 🚀 Principais Repositórios:
+* [**Luxus Brechó**](https://github.com/caique-az/luxus-brecho): Sistema de gestão e App Mobile (Flask/React Native).
+* [**EconAgro**](https://github.com/caique-az/econagro-backend): Solução para o setor de agronegócio.
 
 ---
 
@@ -62,11 +38,8 @@ Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=dracula&count_private=false" alt="Caique Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-az&theme=dracula" alt="GitHub Streak" height="170">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=dracula)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="150">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caique-az&theme=dracula)
