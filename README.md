@@ -42,8 +42,14 @@ Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo 
 > * **Tech:** Python (Flask), React Native, MongoDB e CI/CD.
 > * **Impacto:** Digitalização de estoque e vendas online.
 
-| [![Luxus-Brecho](https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=luxus-brecho&theme=dracula)](https://github.com/caique-az/luxus-brecho) | [![EconAgro](https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=econagro-backend&theme=dracula)](https://github.com/caique-az/econagro-backend) |
-| :---: | :---: |
+<div align="center">
+  <a href="https://github.com/caique-az/luxus-brecho">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=luxus-brecho&theme=dracula" alt="Luxus Brecho">
+  </a>
+  <a href="https://github.com/caique-az/econagro-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=caique-az&repo=econagro-backend&theme=dracula" alt="EconAgro">
+  </a>
+</div>
 
 ---
 
@@ -56,5 +62,11 @@ Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo 
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=dracula)](https://github.com/caique-az)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&langs_count=7&theme=dracula)](https://github.com/caique-az)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caique-az&show_icons=true&theme=dracula&count_private=false" alt="Caique Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caique-az&theme=dracula" alt="GitHub Streak" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caique-az&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" height="150">
+</div>
