@@ -45,7 +45,7 @@
 
 ### 💼 Experiência & Projetos
 
-Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo e evoluindo sistemas críticos em **Jakarta EE** e **WildFly**. Paralelamente, desenvolvo soluções Full Stack para clientes reais.
+Atualmente atuo como **Desenvolvedor Java** no setor público (FUNAC), mantendo e evoluindo sistemas críticos em **Jakarta EE** e **WildFly**.
 
 #### 🏆 Destaque: [Luxus Brechó](https://github.com/CaiqueAzevedo65/Luxus-Brecho)
 > *Sistema de gestão e App Mobile desenvolvido para um cliente real.*
