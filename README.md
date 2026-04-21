@@ -10,10 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-caiqueazevedo2005%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/caique-azevedo-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-caique--azevedo-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/caique-az" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-caique--az-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-caique--azevedo--dev-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
