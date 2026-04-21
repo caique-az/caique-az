@@ -96,13 +96,6 @@ I'm a Software Engineering student at **FIAP** (2024–2028), currently working 
 
 ---
 
-### 🚗 [FIPE Table CLI](https://github.com/caique-az/fipe-table-cli) — Spring Boot CLI Tool
-> Java + Spring Boot
-
-- CLI app to query Brazilian FIPE vehicle price table API
-
----
-
 ## 💼 Experience
 
 **Junior Java Developer — FUNAC** *(Jan 2026 – Present)*
