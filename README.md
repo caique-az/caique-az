@@ -20,7 +20,6 @@
 
 I'm a Software Engineering student at **FIAP** (2024–2028), currently working as a **Junior Java Developer** at FUNAC, where I maintain and refactor enterprise Java/Jakarta EE systems in production. I build full stack applications with a strong focus on backend quality — clean APIs, automated tests, and solid architecture.
 
-- 🏢 **Working at:** Fundação da Criança e do Adolescente (FUNAC) — São Luís, MA
 - 🎓 **Degree:** B.Sc. Software Engineering – FIAP | Technician in Systems Development – Senac ✅
 - 📍 **Location:** Campinas, SP (open to remote)
 - 🌎 **English:** B2 – fluent in technical reading and writing
